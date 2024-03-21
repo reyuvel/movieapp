@@ -19,7 +19,7 @@ const App = ()=>{
     },[]) ;
 
     return (
-        <h1>JESUS</h1>
+        <h1>JESUS is love</h1>
     );
 }
 
